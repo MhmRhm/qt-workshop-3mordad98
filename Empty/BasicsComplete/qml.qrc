@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ZeroRect.qml</file>
+        <file>OneRect.qml</file>
+        <file>FourRect.qml</file>
+    </qresource>
+</RCC>
