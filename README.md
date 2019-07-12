@@ -18,7 +18,7 @@ This project is developed in QML descriptive language. Here we get to know how t
 2. **NewsReader**
 This project is developed in QML descriptive language. Here we use NYTimes `RESTful API` to fetch Recent articles and show them. In addition articles can be saved and SQLite `database` connection and `Model-View` mechanism are explained.
 	
-	>This project can also be built in windows however it requires Visual Studio compilers for its web engine and also you need to install openssl on windows in order to connect to API.
+	>This project can also be built in windows however it requires Visual Studio compilers for its web engine and also you need to install openssl on windows in order to connect to API. Openssl is required on Linux too.
 
 3. **GFLocator/BadBF**
 This project is developed in QML descriptive language and C++ for back-end. Here we use a map service (`GIS`) and `GPS` to show our current location on map. The C++ back-end code sends our location to some IP address over the Internet. The BadBF program receives this location and show on the map. Here our spying program runs on an Android device and our locator runs on raspberry pi. `Cross-compiling` and `networking` is explained in this project.
