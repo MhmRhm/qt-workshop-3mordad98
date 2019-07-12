@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>PageFiles.qml</file>
+        <file>PageTracks.qml</file>
+        <file>PageCurrentTrack.qml</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>Font Awesome 5 Free-Solid-900.otf</file>
+    </qresource>
+</RCC>
