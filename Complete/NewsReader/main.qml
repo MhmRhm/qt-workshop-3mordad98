@@ -336,7 +336,8 @@ ApplicationWindow {
 	Component.onCompleted: {
 		feedFetchIndicator.running = true
 		var xhr = new XMLHttpRequest
-		xhr.open("GET", topStoriesURL + nyKey)
+		//xhr.open("GET", topStoriesURL + nyKey)
+		xhr.open("GET", "File:///home/mohammad/Documents/QtProjects/NewsReader/news.txt")
 		xhr.onreadystatechange = function() {
 			if (xhr.readyState === XMLHttpRequest.DONE) {
 				var data = JSON.parse(xhr.responseText)
