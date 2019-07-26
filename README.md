@@ -34,3 +34,5 @@ This project is developed in QML descriptive language and C++ for back-end. Here
 This project is developed in C++. Here we take a deeper look into `multi-threading`, `signal-slot` mechanism and `Qt ecosystem`.
 	
 	>This project like the first one is pure Qt and can compile in all OSs.
+	
+Contact info: rahimi.mhmmd@gmail.com
