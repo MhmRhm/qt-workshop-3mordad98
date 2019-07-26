@@ -35,4 +35,3 @@ This project is developed in C++. Here we take a deeper look into `multi-threadi
 	
 	>This project like the first one is pure Qt and can compile in all OSs.
 	
-Contact info: rahimi.mhmmd@gmail.com
